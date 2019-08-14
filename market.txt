@@ -1,0 +1,108 @@
+@vp tweets noon 4/5 - noon 4/12?
+Days left: 3
+Matching tweets: 16
+Category probabilities:
+0-24     0.057143
+25-29    0.100000
+30-34    0.128571
+35-39    0.171429
+40-44    0.100000
+45-49    0.285714
+50-99    0.157143
+dtype: float64
+BUY YES shares for contract 45-49: 3 shares @0.14 (EV: 0.14571428571428569, TOTAL: 0.42000000000000004)
+0-24 35.400000000000006
+25-29 -17.6
+30-34 -20.6
+35-39 -20.6
+40-44 -20.6
+45-49 2.4000000000000004
+50-99 43.400000000000006
+----------------------------------------
+
+
+@whitehouse tweets 4/4 - 4/11?
+Days left: 2
+Matching tweets: 82
+Category probabilities:
+0-79       0.000000
+80-84      0.000000
+85-89      0.000000
+90-94      0.069767
+95-99      0.162791
+100-104    0.186047
+105-299    0.581395
+dtype: float64
+BUY YES shares for contract 100-104: 5 shares @0.17 (EV: 0.016046511627906962, TOTAL: 0.8500000000000001)
+BUY YES shares for contract 95-99: 7 shares @0.06 (EV: 0.1027906976744186, TOTAL: 0.42)
+SELL YES shares for contract 0-79_0.16_19.0: ALL shares @0.99 (EV: 0.99, TOTAL: 18.81)
+SELL YES shares for contract 0-79_0.1_12.0: ALL shares @0.99 (EV: 0.99, TOTAL: 11.879999999999999)
+SELL YES shares for contract 0-79_0.06_20.0: ALL shares @0.99 (EV: 0.99, TOTAL: 19.8)
+SELL YES shares for contract 0-79_0.05_10.0: ALL shares @0.99 (EV: 0.99, TOTAL: 9.9)
+SELL YES shares for contract 0-79_0.04_16.0: ALL shares @0.99 (EV: 0.99, TOTAL: 15.84)
+SELL YES shares for contract 85-89_0.09_15.0: ALL shares @0.99 (EV: 0.99, TOTAL: 14.85)
+SELL YES shares for contract 85-89_0.08_23.0: ALL shares @0.99 (EV: 0.99, TOTAL: 22.77)
+SELL YES shares for contract 80-84_0.07_25.0: ALL shares @0.99 (EV: 0.99, TOTAL: 24.75)
+SELL YES shares for contract 80-84_0.08_13.0: ALL shares @0.99 (EV: 0.99, TOTAL: 12.87)
+SELL YES shares for contract 80-84_0.07_6.0: ALL shares @0.99 (EV: 0.99, TOTAL: 5.9399999999999995)
+SELL YES shares for contract 80-84_0.03_20.0: ALL shares @0.99 (EV: 0.99, TOTAL: 19.8)
+BUY YES shares for contract 90-94: 109 shares @0.02 (EV: 0.04976744186046511, TOTAL: 2.18)
+SELL YES shares for contract 90-94_0.1_18.0: ALL shares @0.99 (EV: 0.9202325581395349, TOTAL: 17.82)
+0-79 74.46999999999998
+80-84 61.46999999999999
+85-89 35.46999999999999
+90-94 15.469999999999999
+95-99 41.46999999999999
+100-104 -2.53000000000001
+105-299 -26.53000000000001
+----------------------------------------
+
+
+@realDonaldTrump tweets 4/3 - 4/10?
+Days left: 1
+Matching tweets: 82
+Category probabilities:
+0-59      0.000000
+60-64     0.000000
+65-69     0.000000
+70-74     0.000000
+75-79     0.000000
+80-84     0.076923
+85-199    0.923077
+dtype: float64
+BUY NO shares for contract 85-199: 18 shares @0.05 (EV: 0.02692307692307687, TOTAL: 0.9)
+BUY YES shares for contract 80-84: 27 shares @0.05 (EV: 0.026923076923076925, TOTAL: 1.35)
+0-59 3.84
+60-64 3.84
+65-69 3.84
+70-74 3.84
+75-79 3.84
+80-84 3.84
+85-199 -5.16
+----------------------------------------
+
+
+@potus tweets noon 4/5 - noon 4/12?
+Days left: 3
+Matching tweets: 38
+Category probabilities:
+0-34      0.000000
+35-39     0.000000
+40-44     0.034483
+45-49     0.086207
+50-54     0.086207
+55-59     0.086207
+60-199    0.706897
+dtype: float64
+BUY YES shares for contract 45-49: 37 shares @0.05 (EV: 0.036206896551724134, TOTAL: 1.85)
+BUY YES shares for contract 40-44: 125 shares @0.01 (EV: 0.024482758620689656, TOTAL: 1.25)
+0-34 -2.47
+35-39 -2.47
+40-44 -2.47
+45-49 -2.47
+50-54 -6.470000000000001
+55-59 -6.47
+60-199 4.53
+----------------------------------------
+
+
